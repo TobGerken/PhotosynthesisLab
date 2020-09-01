@@ -3,5 +3,4 @@ channels:
 dependencies:
   - python
   - numpy
-  - psutil
-  - toolz
+
